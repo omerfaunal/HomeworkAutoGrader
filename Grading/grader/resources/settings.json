@@ -1,0 +1,8 @@
+{
+  "submission_dir": "/home/omer/Desktop/Grading/submissions",
+  "input_dir": "/home/omer/Desktop/Grading/input",
+  "output_dir": "/home/omer/Desktop/Grading/output",
+  "results_dir": "/home/omer/Desktop/Grading",
+  "entry_point": "project4.java",
+  "timeout": 100
+}
